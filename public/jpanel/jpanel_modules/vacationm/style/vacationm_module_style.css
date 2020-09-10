@@ -1,0 +1,55 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	padding:0px;
+	margin:0px;	
+}
+#body_cont {
+	border:1px solid #036;
+}
+#main_cont {
+	width:900px;
+	margin:0 auto;	
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:12px;
+	background-color:#CCCCCC;
+	padding:10px;
+	color:#000000;
+	padding-left:15px;
+}
+#main_cont table {
+	border-collapse:collapse;
+	border-color:#990033;
+	width:100%;
+	border:1px solid #990033;
+	
+}
+#main_cont table  td {
+	padding:5px;
+	color:#000000;
+}
+#main_cont input {
+	border:1px solid #CCC;
+	height:22px;
+}
+.label_span {
+	display:inline-block;
+	min-width:100px;
+	margin-left:5px;
+	font-weight:bold;
+}
+.label_span_long {
+	min-width:200px;
+	display:inline-block;
+}
+.form_input {
+	width:200px;	
+}
+#radio_table td {
+	text-align:center;	
+}
+
+
+
+
+

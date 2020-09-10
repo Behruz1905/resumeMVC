@@ -1,0 +1,154 @@
+@charset "utf-8";
+/* CSS Document */
+.portlet_table {
+  border-collapse: collapse;
+  border-spacing: 2px;
+  border-color: #D7D7D7;
+  margin-left:15px;
+}
+
+.portlet_table_title_tr {
+	background-color: #E8E8E8;
+  background-image: -webkit-gradient(linear,0 0,0 100%,from(#fafafa),to(#dadada));
+  background-image: -moz-linear-gradient(top,#fafafa,#dadada);
+  background-image: -o-linear-gradient(top,#fafafa,#dadada);
+  
+}
+
+.portlet_table_title_tr td {
+	padding:0px 10px 0px 15px;
+	
+  
+ 
+}
+.portlet_table_title_tr td h3 {
+	font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+	 color: #555;
+
+  font-size: 14px;
+  line-height: 1.1;
+  box-sizing: border-box;
+  padding:0px;
+  margin:8px 6px 8px 6px;
+  font-weight:bold;
+}
+.portlet_table_links_tr {
+	background-color:#E8E8E8; 
+}
+
+.portlet_table_links_tr td {
+	
+}
+
+.portlet_table_controls_tr {
+	
+}
+
+
+
+.main_buttons {
+    display: block;
+    list-style-type: disc;
+    padding: 0px;
+    margin-bottom: 0px;
+    margin-left: 10px;
+}
+.main_buttons li {
+    border: 1px solid #E5E5E5;
+    box-shadow: none !important;
+    width: 85px;
+    height: 85px;
+    display: inline-block;
+    margin: 0px 15px 15px 0px;
+    position: relative;
+    list-style: none;
+}
+.main_buttons li a:hover {
+    background: #1FAEFF;
+    color: #fff;
+}
+.main_buttons li a {
+    box-shadow: none !important;
+    width: 85px;
+    height: 85px;
+    padding: 0px !important;
+    display: block;
+    text-decoration: none;
+    background: #F4F4F4;
+    color: #333;
+}
+.main_buttons li a i {
+    font-size: 30px !important;
+    display: block !important;
+    text-align: center;
+    padding: 10px 0 10px 0 !important;
+    width: auto !important;
+    color: #fff !important;
+   
+}
+.main_buttons li {
+    text-align: center;
+}
+
+
+.ui-widget  {
+	font-size:12px; !important
+}
+
+.ui-corner-all, .ui-corner-bottom, .ui-corner-right, .ui-corner-br {
+	border-radius:0px;	
+}
+
+.ui_text {
+	  height: 20px;
+  padding: 3px 8px;
+  font-size: 13px;
+  line-height: 1.4;
+  background-color: #fff;
+  border: 1px solid #d9d9d9;
+  border-top-color: #c0c0c0;
+  border-radius: 1px;
+  color: #555;
+  vertical-align: middle;
+  background-color: #fff;
+  background-image: none;
+  border: 1px solid #ccc;
+  
+  -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,0.075);
+  box-shadow: inset 0 1px 1px rgba(0,0,0,0.075);
+  -webkit-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+  transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;	
+}
+
+
+/* edit table */
+.edit_table {
+	border-collapse: collapse;
+  border-spacing: 2px;
+  border-color: #D7D7D7;
+  margin-left:15px;
+}
+.edit_table_controls_tr {
+	
+}
+.edit_table_head_tr {
+	background-color: #E8E8E8;
+  background-image: -webkit-gradient(linear,0 0,0 100%,from(#fafafa),to(#dadada));
+  background-image: -moz-linear-gradient(top,#fafafa,#dadada);
+  background-image: -o-linear-gradient(top,#fafafa,#dadada);
+  
+}
+.edit_table_head_tr td {
+	padding:0px 10px 0px 15px;
+}
+.edit_table_head_tr td h3 {
+	font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+	 color: #555;
+
+  font-size: 14px;
+  line-height: 1.1;
+  box-sizing: border-box;
+  padding:0px;
+  margin:8px 6px 8px 6px;
+  font-weight:bold;
+}

@@ -1,0 +1,138 @@
+@charset "utf-8";
+/* CSS Document */
+.ui-datepicker{
+		font-size:12px;	
+		font-family: "Trebuchet MS", "Arial", "Helvetica", "Verdana", "sans-serif";
+	}
+	.ui-datepicker-calendar td {
+		font-size:12px;	
+		font-family: "Trebuchet MS", "Arial", "Helvetica", "Verdana", "sans-serif";
+	}
+
+
+
+
+.prod_title_span {
+
+		font-size:10px;	
+
+	}
+
+	#material_gallery_table {
+
+		border-collapse:collapse;
+
+		margin-bottom:15px;
+
+	}
+
+	#material_gallery_input {
+
+		width:350px;
+
+	}
+
+	#material_gallery_input_big {
+		width:350px;
+	}
+
+	.material_gallery_delete_img {
+		cursor:pointer;
+	}
+
+	.material_gallery_img_td img {
+		border:1px solid #DDDDDD;
+	}
+
+	#material_gallery_upload {
+		cursor:pointer;
+	}
+
+	.material_gallery_delete_td {
+		text-align:center;
+	}
+
+	.prop_item_label {
+		margin-right:10px;	
+	}
+
+	.prop_item_label checbox {
+		vertical-align:top;	
+	}
+
+	.prop_item_label label {
+		vertical-align:top;	
+	}
+
+	.prop_item_label_custom {
+		padding-left:20px;
+		background-image:url(../../../jpanel_img/check.png);
+		background-repeat:no-repeat;
+		background-position:2px 50%;	
+	}
+
+	#filter_shop {
+		margin:5px 5px 5px 5px;
+		cursor:pointer;
+		width:110px;
+		padding-right:20px;	
+		background-position:right;
+		background-repeat:no-repeat;
+		background-image:url(../../../jpanel_img/filter_add.png);
+	}
+	
+	.upload_btn  {
+		opacity:0.8;
+		cursor:pointer;	
+	}
+	.upload_btn:hover  {
+		opacity:1;	
+	}
+
+	#edit_tags {
+		margin-top:5px;	
+		margin-bottom:5px;
+	}
+
+	#edit_tags a {
+		margin-left:5px;
+	}
+	#edit_tags span {
+		margin-right:5px;	
+		font-size:14px;
+		border:1px solid #9F9;
+		border-radius: 8px;
+		-moz-border-radius: 8px;
+		-webkit-border-radius: 8px;
+		padding:5px;
+		margin-top:5px;
+	}
+
+	#edit_tags a img {
+		width:12px;
+		vertical-align:middle;
+	}
+	.prop_tree_value_class {
+		margin-top:8px;
+		margin-left:5px;	
+	}
+	
+	#prod_images_cont {
+		margin-top:5px;
+	}
+	.prod_img_item {
+		background-color:#DDE4EE;
+		padding:5px;
+		display:inline-block;
+		margin-right:6px;
+	}
+	.prod_img_item .prod_img {
+		width:100px;
+		height:100px;
+	}
+	.prod_img_item .prod_img_remove  {
+		cursor:pointer;
+		vertical-align:top;
+		margin-left:3px;
+	}
+	

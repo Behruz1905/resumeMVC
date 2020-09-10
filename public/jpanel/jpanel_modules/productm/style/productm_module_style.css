@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+
+#prod_filter_table {
+	border-collapse:collapse;
+	border-color:#CCC;	
+}
+#prod_filter_table .filter_label {
+	font-weight:bold;	
+}

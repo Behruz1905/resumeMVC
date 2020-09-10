@@ -1,0 +1,95 @@
+[19-Jul-2014 08:40:08 Asia/Baku] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/zefercp/public_html/functions/php_functions.php on line 113
+[19-Jul-2014 09:51:28 Asia/Baku] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/zefercp/public_html/functions/php_functions.php on line 113
+[19-Jul-2014 12:08:31 Asia/Baku] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/zefercp/public_html/functions/php_functions.php on line 113
+[19-Jul-2014 12:08:31 Asia/Baku] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zefercp/public_html/functions/php_functions.php:113) in /home/zefercp/public_html/admincontrol/login_exec.php on line 116
+[19-Jul-2014 13:13:21 Asia/Baku] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/zefercp/public_html/functions/php_functions.php on line 113
+[19-Jul-2014 13:13:21 Asia/Baku] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zefercp/public_html/functions/php_functions.php:113) in /home/zefercp/public_html/admincontrol/login_exec.php on line 116
+[19-Jul-2014 22:13:19 Asia/Baku] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/zefercp/public_html/functions/php_functions.php on line 113
+[19-Jul-2014 22:13:19 Asia/Baku] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zefercp/public_html/functions/php_functions.php:113) in /home/zefercp/public_html/admincontrol/login_exec.php on line 116
+[20-Jul-2014 12:27:25 Asia/Baku] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/zefercp/public_html/functions/php_functions.php on line 113
+[20-Jul-2014 12:27:25 Asia/Baku] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zefercp/public_html/functions/php_functions.php:113) in /home/zefercp/public_html/admincontrol/login_exec.php on line 116
+[20-Jul-2014 12:50:48 Asia/Baku] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/zefercp/public_html/functions/php_functions.php on line 113
+[20-Jul-2014 12:50:48 Asia/Baku] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zefercp/public_html/functions/php_functions.php:113) in /home/zefercp/public_html/admincontrol/login_exec.php on line 116
+[20-Jul-2014 13:32:09 Asia/Baku] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/zefercp/public_html/functions/php_functions.php on line 113
+[20-Jul-2014 13:32:09 Asia/Baku] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zefercp/public_html/functions/php_functions.php:113) in /home/zefercp/public_html/admincontrol/login_exec.php on line 116
+[20-Jul-2014 17:52:46 Asia/Baku] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/zefercp/public_html/functions/php_functions.php on line 113
+[20-Jul-2014 17:52:46 Asia/Baku] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zefercp/public_html/functions/php_functions.php:113) in /home/zefercp/public_html/admincontrol/login_exec.php on line 116
+[21-Jul-2014 09:05:17 Asia/Baku] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/zefercp/public_html/functions/php_functions.php on line 113
+[21-Jul-2014 09:05:17 Asia/Baku] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zefercp/public_html/functions/php_functions.php:113) in /home/zefercp/public_html/admincontrol/login_exec.php on line 116
+[21-Jul-2014 10:28:15 Asia/Baku] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/zefercp/public_html/functions/php_functions.php on line 113
+[21-Jul-2014 10:28:15 Asia/Baku] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zefercp/public_html/functions/php_functions.php:113) in /home/zefercp/public_html/admincontrol/login_exec.php on line 116
+[21-Jul-2014 10:57:18 Asia/Baku] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/zefercp/public_html/functions/php_functions.php on line 113
+[21-Jul-2014 10:57:18 Asia/Baku] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zefercp/public_html/functions/php_functions.php:113) in /home/zefercp/public_html/admincontrol/login_exec.php on line 116
+[21-Jul-2014 16:33:23 Asia/Baku] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/zefercp/public_html/functions/php_functions.php on line 113
+[21-Jul-2014 16:33:23 Asia/Baku] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zefercp/public_html/functions/php_functions.php:113) in /home/zefercp/public_html/admincontrol/login_exec.php on line 116
+[21-Jul-2014 18:02:10 Asia/Baku] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/zefercp/public_html/functions/php_functions.php on line 113
+[21-Jul-2014 18:02:10 Asia/Baku] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zefercp/public_html/functions/php_functions.php:113) in /home/zefercp/public_html/admincontrol/login_exec.php on line 72
+[21-Jul-2014 22:04:00 Asia/Baku] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/zefercp/public_html/functions/php_functions.php on line 113
+[21-Jul-2014 22:04:00 Asia/Baku] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zefercp/public_html/functions/php_functions.php:113) in /home/zefercp/public_html/admincontrol/login_exec.php on line 72
+[21-Jul-2014 22:24:05 Asia/Baku] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/zefercp/public_html/functions/php_functions.php on line 113
+[21-Jul-2014 22:24:05 Asia/Baku] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zefercp/public_html/functions/php_functions.php:113) in /home/zefercp/public_html/admincontrol/login_exec.php on line 72
+[21-Jul-2014 23:14:12 Asia/Baku] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/zefercp/public_html/functions/php_functions.php on line 113
+[21-Jul-2014 23:14:12 Asia/Baku] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zefercp/public_html/functions/php_functions.php:113) in /home/zefercp/public_html/admincontrol/login_exec.php on line 72
+[22-Jul-2014 08:58:19 Asia/Baku] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/zefercp/public_html/functions/php_functions.php on line 113
+[22-Jul-2014 08:58:19 Asia/Baku] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zefercp/public_html/functions/php_functions.php:113) in /home/zefercp/public_html/admincontrol/login_exec.php on line 72
+[22-Jul-2014 10:26:57 Asia/Baku] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/zefercp/public_html/functions/php_functions.php on line 113
+[22-Jul-2014 10:26:57 Asia/Baku] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zefercp/public_html/functions/php_functions.php:113) in /home/zefercp/public_html/admincontrol/login_exec.php on line 72
+[22-Jul-2014 10:58:36 Asia/Baku] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/zefercp/public_html/functions/php_functions.php on line 113
+[22-Jul-2014 10:58:36 Asia/Baku] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zefercp/public_html/functions/php_functions.php:113) in /home/zefercp/public_html/admincontrol/login_exec.php on line 72
+[22-Jul-2014 11:48:28 Asia/Baku] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/zefercp/public_html/functions/php_functions.php on line 113
+[22-Jul-2014 11:48:28 Asia/Baku] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zefercp/public_html/functions/php_functions.php:113) in /home/zefercp/public_html/admincontrol/login_exec.php on line 72
+[22-Jul-2014 11:53:35 Asia/Baku] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/zefercp/public_html/functions/php_functions.php on line 113
+[22-Jul-2014 11:53:35 Asia/Baku] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zefercp/public_html/functions/php_functions.php:113) in /home/zefercp/public_html/admincontrol/login_exec.php on line 72
+[22-Jul-2014 11:58:45 Asia/Baku] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/zefercp/public_html/functions/php_functions.php on line 113
+[22-Jul-2014 11:58:45 Asia/Baku] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zefercp/public_html/functions/php_functions.php:113) in /home/zefercp/public_html/admincontrol/login_exec.php on line 72
+[22-Jul-2014 13:15:41 Asia/Baku] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/zefercp/public_html/functions/php_functions.php on line 113
+[22-Jul-2014 13:15:41 Asia/Baku] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zefercp/public_html/functions/php_functions.php:113) in /home/zefercp/public_html/admincontrol/login_exec.php on line 72
+[22-Jul-2014 21:07:48 Asia/Baku] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/zefercp/public_html/functions/php_functions.php on line 113
+[22-Jul-2014 21:07:48 Asia/Baku] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zefercp/public_html/functions/php_functions.php:113) in /home/zefercp/public_html/admincontrol/login_exec.php on line 72
+[23-Jul-2014 09:05:44 Asia/Baku] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/zefercp/public_html/functions/php_functions.php on line 113
+[23-Jul-2014 09:05:44 Asia/Baku] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zefercp/public_html/functions/php_functions.php:113) in /home/zefercp/public_html/admincontrol/login_exec.php on line 72
+[23-Jul-2014 10:42:20 Asia/Baku] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/zefercp/public_html/functions/php_functions.php on line 113
+[23-Jul-2014 10:42:20 Asia/Baku] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zefercp/public_html/functions/php_functions.php:113) in /home/zefercp/public_html/admincontrol/login_exec.php on line 72
+[23-Jul-2014 13:31:39 Asia/Baku] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/zefercp/public_html/functions/php_functions.php on line 113
+[23-Jul-2014 13:31:39 Asia/Baku] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zefercp/public_html/functions/php_functions.php:113) in /home/zefercp/public_html/admincontrol/login_exec.php on line 72
+[23-Jul-2014 13:56:39 Asia/Baku] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/zefercp/public_html/functions/php_functions.php on line 113
+[23-Jul-2014 13:56:39 Asia/Baku] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zefercp/public_html/functions/php_functions.php:113) in /home/zefercp/public_html/admincontrol/login_exec.php on line 72
+[23-Jul-2014 14:15:56 Asia/Baku] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/zefercp/public_html/functions/php_functions.php on line 113
+[23-Jul-2014 14:15:56 Asia/Baku] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zefercp/public_html/functions/php_functions.php:113) in /home/zefercp/public_html/admincontrol/login_exec.php on line 72
+[23-Jul-2014 14:55:35 Asia/Baku] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/zefercp/public_html/functions/php_functions.php on line 113
+[23-Jul-2014 15:02:12 Asia/Baku] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/zefercp/public_html/functions/php_functions.php on line 113
+[23-Jul-2014 17:07:25 Asia/Baku] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/zefercp/public_html/functions/php_functions.php on line 113
+[23-Jul-2014 17:13:08 Asia/Baku] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/zefercp/public_html/functions/php_functions.php on line 113
+[23-Jul-2014 21:27:45 Asia/Baku] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/zefercp/public_html/functions/php_functions.php on line 113
+[23-Jul-2014 23:15:52 Asia/Baku] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/zefercp/public_html/functions/php_functions.php on line 113
+[24-Jul-2014 02:01:18 Asia/Baku] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/zefercp/public_html/functions/php_functions.php on line 113
+[24-Jul-2014 04:46:51 Asia/Baku] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/zefercp/public_html/functions/php_functions.php on line 113
+[24-Jul-2014 08:48:31 Asia/Baku] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/zefercp/public_html/functions/php_functions.php on line 113
+[24-Jul-2014 09:12:57 Asia/Baku] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/zefercp/public_html/functions/php_functions.php on line 113
+[24-Jul-2014 09:33:30 Asia/Baku] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/zefercp/public_html/functions/php_functions.php on line 113
+[24-Jul-2014 09:44:25 Asia/Baku] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/zefercp/public_html/functions/php_functions.php on line 113
+[24-Jul-2014 10:40:55 Asia/Baku] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/zefercp/public_html/functions/php_functions.php on line 113
+[24-Jul-2014 11:32:20 Asia/Baku] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/zefercp/public_html/functions/php_functions.php on line 113
+[24-Jul-2014 11:38:05 Asia/Baku] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/zefercp/public_html/functions/php_functions.php on line 113
+[24-Jul-2014 11:51:35 Asia/Baku] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/zefercp/public_html/functions/php_functions.php on line 113
+[24-Jul-2014 14:55:18 Asia/Baku] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/zefercp/public_html/functions/php_functions.php on line 113
+[24-Jul-2014 15:09:37 Asia/Baku] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/zefercp/public_html/functions/php_functions.php on line 113
+[24-Jul-2014 15:47:03 Asia/Baku] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/zefercp/public_html/functions/php_functions.php on line 113
+[24-Jul-2014 16:53:56 Asia/Baku] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/zefercp/public_html/functions/php_functions.php on line 113
+[24-Jul-2014 17:02:24 Asia/Baku] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/zefercp/public_html/functions/php_functions.php on line 113
+[24-Jul-2014 22:10:50 Asia/Baku] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/zefercp/public_html/functions/php_functions.php on line 113
+[25-Jul-2014 09:07:58 Asia/Baku] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/zefercp/public_html/functions/php_functions.php on line 113
+[25-Jul-2014 09:33:47 Asia/Baku] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/zefercp/public_html/functions/php_functions.php on line 113
+[25-Jul-2014 09:49:59 Asia/Baku] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/zefercp/public_html/functions/php_functions.php on line 113
+[25-Jul-2014 11:45:58 Asia/Baku] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/zefercp/public_html/functions/php_functions.php on line 113
+[25-Jul-2014 16:11:12 Asia/Baku] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/zefercp/public_html/functions/php_functions.php on line 113
+[25-Jul-2014 16:46:26 Asia/Baku] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/zefercp/public_html/functions/php_functions.php on line 113
+[25-Jul-2014 21:45:38 Asia/Baku] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/zefercp/public_html/functions/php_functions.php on line 113
+[26-Jul-2014 08:48:58 Asia/Baku] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/zefercp/public_html/functions/php_functions.php on line 113
+[27-Jul-2014 18:02:55 Asia/Baku] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/zefercp/public_html/functions/php_functions.php on line 113
+[28-Jul-2014 00:05:42 Asia/Baku] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/zefercp/public_html/functions/php_functions.php on line 113
+[28-Jul-2014 11:34:04 Asia/Baku] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/zefercp/public_html/online_aptek/functions/php_functions.php on line 113
+[28-Jul-2014 11:51:32 Asia/Baku] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/zefercp/public_html/online_aptek/functions/php_functions.php on line 113
+[29-Jul-2014 09:55:30 Asia/Baku] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/zefercp/public_html/online_aptek/functions/php_functions.php on line 113
+[29-Jul-2014 10:17:54 Asia/Baku] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/zefercp/public_html/online_aptek/functions/php_functions.php on line 113
+[31-Jul-2014 08:53:33 Asia/Baku] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/zefercp/public_html/online_aptek/functions/php_functions.php on line 113
