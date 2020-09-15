@@ -68,6 +68,7 @@ class Resume extends  Controller
 
             if($_FILES["imgFile"]["name"] == '') {
                 $error['imgFile'] = "CV üçün şəkil seçilmədi!";
+                $val = false;
             }else {
                 $fload = $_FILES["imgFile"]["name"];
                 $file_loc = $_FILES['imgFile']['tmp_name'];

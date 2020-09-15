@@ -52,8 +52,9 @@
         var datas = window.localStorage.getItem('errors');
 
         if(datas){
-            $(".progress-bar").hide();
-            $("#esas").css({ display: "block" });   ``
+
+            setProgressBar(1);
+            $("#esas").css({ display: "block" });
             datas = JSON.parse(datas);
             console.log(datas);
             $.each(datas, function(i, obj){
@@ -65,24 +66,30 @@
                 window.localStorage.removeItem('errors');
             }, 5000);
         }
-
-
-        var successData = window.localStorage.getItem('successData');
-
-        if(successData){
-            $(".progress-bar").hide();
-            $("#esas_success").css({ display: "block" });
+            var successData = window.localStorage.getItem('successData');
             successData = JSON.parse(successData);
-            console.log(successData);
-            $.each(successData, function(i, obj){
-                $('#esas_success').append($('<h2 class="text-justify">').text(obj));
-            });
+            if(successData){
+                var dataSuccess = successData.message;
 
-            setTimeout(function(){
-                $("#esas_success").hide();
-                window.localStorage.removeItem('successData');
-            }, 5000);
-        }
+                if(dataSuccess.trim() !="" ){
+                    $(".progress-bar").hide();
+                    $("#esas_success").css({ display: "block" });
+
+
+                    $.each(successData, function(i, obj){
+                        $('#esas_success').append($('<h2 class="text-justify">').text(obj));
+                    });
+
+                    setTimeout(function(){
+                        $("#esas_success").hide();
+                        window.localStorage.removeItem('successData');
+                    }, 5000);
+
+                }
+
+
+            }
+
 
 
 
@@ -250,6 +257,7 @@
                     var err = msg.error;
                     var arrE = Object.values(err); //arraya cevirdim
                     var areAllNull  = arrE.every(function(i) { return i === ''; });
+
                     if(!areAllNull){
                         window.localStorage.setItem('errors', JSON.stringify(err));
                         location.reload();
